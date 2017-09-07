@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	color: red;	
+}
+form {
+	text-align: center;
+}
+
+input {
+	margin: 15px;
+	}
+button {
+	color: white;
+	background-color: green;
+}
+.log {
+	border: solid;
+	background-color: white;
+	width: 500px;
+	position: absolute;
+	top: 20%;
+	left: 26%;
+	padding:70px;
+}
+body{
+	background-color: grey;
+}
