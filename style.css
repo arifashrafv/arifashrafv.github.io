@@ -17,11 +17,14 @@ button {
 	border: solid;
 	background-color: white;
 	width: 500px;
-	position: absolute;
-	top: 20%;
-	left: 26%;
-	padding:70px;
-}
+	padding: 30px;
+	margin-top: 50px;
+	}
 body{
 	background-color: grey;
+}
+.flex {
+	display: flex;
+	align-items: center;
+    justify-content: center;
 }
